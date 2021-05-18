@@ -1,0 +1,4 @@
+WASD		-> Steuerung des Schäfers
+Linke Maustaste	-> Steuerung Hund
+Restart-Button	-> Neustart des Spiels nach abgelaufener Zeit
+P               -> Pausieren/Pause beenden
